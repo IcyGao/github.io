@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>HerMusical-surprise</title>
+    <style>  
+      body {
+        margin: 0;
+      }
+    </style>
+    <meta itemprop="image" content="//asset.eqh5.com/material/d000d91a8b144a3a9baf3645de7aafdb/1713747201036-r87lalbwcs.jpg?imageMogr2/auto-orient/quality/75/cut/598x600x0x0">
+    
+  </head>
+  <body style="background: #C6B7E0;">
+
+
+
+<!-- 顶部 -->
+     <div style="
+       background: #C6B7E0;
+
+       font-family: system-ui;
+       color: white;
+       text-align: center;
+
+       padding: 80px;
+      ">
+    
+       <p>惊喜语音🎉</p>
+     </div>
+
+
+<!-- 中间 -->
+     <div style="
+       background: #C6B7E0;
+
+       font-family: system-ui;
+       color: white;
+       text-align: center;
+
+       padding: 80px;
+
+      ">   
+
+      <audio controls="controls" 
+             src="https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBdUlYN3Mxd0wzcWZpV1J0Y1RyQ2t3Y3NKTjdjP2U9RTl2bklW.mp3">
+            您的浏览器不支持audio标签
+      </audio>
+
+    </div>
+    
+
+<!-- 底部 -->
+     <div style="
+       
+       background: #C6B7E0;
+
+       font-family: system-ui;
+       font-size: 10px;
+       color: #645288;
+       text-align: center;
+
+       padding: 80px;
+       
+      ">
+
+        <p>@河鳄文化HerMusical 🐊</p>
+
+
+
+<!-- 
+        <p>follow us💫
+          <a herf="https://mp.weixin.qq.com/s/KFzrnharjbnF2u4tj5C-Rw">公众号</a>
+          <a herf="https://mp.weixin.qq.com/s/KFzrnharjbnF2u4tj5C-Rw">小红书</a>
+          <a herf="https://mp.weixin.qq.com/s/KFzrnharjbnF2u4tj5C-Rw">微博</a>
+          <a herf="https://mp.weixin.qq.com/s/KFzrnharjbnF2u4tj5C-Rw">抖音</a> 
+        </p>
+
+        <p style="color:red ;">（上面链接还没换）</p>
+-->
+
+
+
+
+
+
+
+  </body>
+</html>
